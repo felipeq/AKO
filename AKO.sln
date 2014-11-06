@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageBeep", "MessageBeep\MessageBeep.vcxproj", "{CDC7EC55-CCE0-4B54-A640-BA28543A141D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2", "Lab2\Lab2.vcxproj", "{AC11594D-2BCB-4C10-B6F8-033DF44CF128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{CDC7EC55-CCE0-4B54-A640-BA28543A141D}.Debug|Win32.Build.0 = Debug|Win32
 		{CDC7EC55-CCE0-4B54-A640-BA28543A141D}.Release|Win32.ActiveCfg = Release|Win32
 		{CDC7EC55-CCE0-4B54-A640-BA28543A141D}.Release|Win32.Build.0 = Release|Win32
+		{AC11594D-2BCB-4C10-B6F8-033DF44CF128}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC11594D-2BCB-4C10-B6F8-033DF44CF128}.Debug|Win32.Build.0 = Debug|Win32
+		{AC11594D-2BCB-4C10-B6F8-033DF44CF128}.Release|Win32.ActiveCfg = Release|Win32
+		{AC11594D-2BCB-4C10-B6F8-033DF44CF128}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
