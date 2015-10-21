@@ -7,6 +7,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageBeep", "MessageBeep\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2", "Lab2\Lab2.vcxproj", "{AC11594D-2BCB-4C10-B6F8-033DF44CF128}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instrukcje", "Instrukcje", "{5306A8D8-7E64-4B75-9816-FBE22C39ED1F}"
+	ProjectSection(SolutionItems) = preProject
+		Instrukcje\2014 Lab 2.pdf = Instrukcje\2014 Lab 2.pdf
+		Instrukcje\2014 Lab 3.pdf = Instrukcje\2014 Lab 3.pdf
+		Instrukcje\2014 Lab 4.pdf = Instrukcje\2014 Lab 4.pdf
+		Instrukcje\2014 Lab 5.pdf = Instrukcje\2014 Lab 5.pdf
+		Instrukcje\2014 Lab 6.pdf = Instrukcje\2014 Lab 6.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
