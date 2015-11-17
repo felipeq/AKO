@@ -16,7 +16,7 @@ _main:
 	push OFFSET tresc
 	push 0
 	call _MessageBoxA@16
-	; EAX = 6, gdy TAK, inaczej 7
+	;// EAX = 6, gdy TAK, inaczej 7
 	sub EAX, 6
 	jnz koniec
 	push 0
