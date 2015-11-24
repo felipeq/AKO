@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instrukcje", "Instrukcje", 
 		Instrukcje\2014 Lab 6.pdf = Instrukcje\2014 Lab 6.pdf
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ako_Lab3", "Ako_Lab3\Ako_Lab3\Ako_Lab3.vcxproj", "{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -30,6 +32,14 @@ Global
 		{4D84325A-C01E-4213-B525-D2F1EC3C9BB1}.Release|Win32.Build.0 = Release|Win32
 		{4D84325A-C01E-4213-B525-D2F1EC3C9BB1}.Release|x64.ActiveCfg = Release|x64
 		{4D84325A-C01E-4213-B525-D2F1EC3C9BB1}.Release|x64.Build.0 = Release|x64
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Debug|Win32.Build.0 = Debug|Win32
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Debug|x64.ActiveCfg = Debug|x64
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Debug|x64.Build.0 = Debug|x64
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Release|Win32.ActiveCfg = Release|Win32
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Release|Win32.Build.0 = Release|Win32
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Release|x64.ActiveCfg = Release|x64
+		{B03427D9-3B4B-4F0E-938A-405F97EC7F8A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
