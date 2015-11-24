@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4_1.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -23,5 +23,19 @@
     <None Include="szukaj_max.asm">
       <Filter>Source Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="3.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="4.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

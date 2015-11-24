@@ -9,4 +9,4 @@ int main()
 	printf("\nSpoœród podanych liczb %d, %d, %d, \
 		    liczba %d jest najwiêksza\n", x, y, z, wynik);
 	return 0;
-}
+}
